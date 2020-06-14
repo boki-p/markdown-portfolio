@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- List of my favorate things
+  - Basketball
+  - Coffee
+  - Dinner
